@@ -7,9 +7,11 @@ This project is based off data collected from accelerometers from Samsung Galaxy
 *The run_analysis.R script assumes that the dataset's root is the current working directory.*
 
 Steps taken to produce the tidy dataset:  
-	1. Merged the training and the test sets to create one data set.
-	2. Extracted only the measurements on the mean and standard deviation for each measurement. 
-	3. Used descriptive activity names to name the activities in the data set
-	4. Appropriately labelled the data set with their respective variable names. 
+	1. Merged the training and the test sets to create one data set.  
+	2. Extracted only the measurements on the mean and standard deviation for each measurement.  
+	3. Used descriptive activity names to name the activities in the data set.  
+	4. Appropriately labelled the data set with their respective variable names.   
 	5. Created an independent tidy data set (tidy_data.txt) with the average of each variable for each activity and each subject.  
+
+Detailed steps are outlined in the run_analysis.R script as comments.
 	
