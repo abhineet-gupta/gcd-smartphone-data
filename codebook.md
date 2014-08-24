@@ -10,11 +10,11 @@ Peer-assessed project for Getting & Cleaning Data (August 2014)
  
  [2] "activity_desc"              
  *Activities performed by the subjects. Include the following 6 values:*  
-	1. WALKING
-	2. WALKING_UPSTAIRS
-	3. WALKING_DOWNSTAIRS
-	4. SITTING
-	5. STANDING
+	1. WALKING  
+	2. WALKING_UPSTAIRS  
+	3. WALKING_DOWNSTAIRS  
+	4. SITTING  
+	5. STANDING  
 	6. LAYING  
 	
 Following values are the **average means** of the features from the accelerometer and gyroscope 3-axial raw signals tAcc-XYZ and tGyro-XYZ. A prefix of 't' represents values in the time-domain whereas an 'f' is that of the frequency domain. All values are normalised and hence in the range [-1, 1]
